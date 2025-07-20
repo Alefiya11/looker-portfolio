@@ -1,4 +1,4 @@
-# looker-portfolio
+# portfolio
 Looker Studio dashboards built using real-world and public datasets.
 # Dashboard Portfolio
 
